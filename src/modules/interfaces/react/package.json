@@ -28,7 +28,7 @@
     "ansi-escapes": "^7.0.0",
     "chokidar": "^5.0.0",
     "commander": "^14.0.2",
-    "dockerode": "^4.0.9",
+    "dockerode": "^5.0.1",
     "ink": "^6.8.0",
     "ink-big-text": "^2.0.0",
     "ink-gradient": "^4.0.0",
@@ -38,7 +38,7 @@
     "ink-spinner": "^5.0.0",
     "ink-table": "^3.1.0",
     "ink-text-input": "^6.0.0",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.3.0",
     "meow": "^14.0.0",
     "node-pty": "^1.0.0",
     "react": "^19.1.1",
@@ -46,7 +46,7 @@
     "yaml": "^2.8.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.29.0",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.29.0",
     "@jest/globals": "^30.2.0",
     "@types/dockerode": "^4.0.1",
@@ -64,7 +64,7 @@
     "react-dom": "^19.1.1",
     "react-test-renderer": "^19.2.4",
     "ts-jest": "^29.4.6",
-    "tsx": "^4.6.2",
+    "tsx": "^4.23.1",
     "typescript": "^5.9.2"
   }
 }
